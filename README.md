@@ -1,7 +1,7 @@
 # javaproject
 Library Management System
 
-#Clone from git: https://github.com/AlmiraAlasani/JavaProject
+#Clone from git: https://github.com/aa28588/javaproject
 
 #How to run This Project
 
